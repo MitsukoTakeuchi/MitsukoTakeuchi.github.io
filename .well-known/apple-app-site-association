@@ -1,0 +1,13 @@
+{
+  "appclips":{
+  "apps":["52GX8FQ2AK.ellatestapp.jp.jigowatts.Clip"]
+  },
+  "applinks": {
+    "details": [
+      {
+        "appID": "52GX8FQ2AK.ellatestapp.jp.jigowatts.Clip",
+        "paths": ["/d/*"]
+      }
+    ]
+  }
+}
